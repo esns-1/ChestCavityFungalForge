@@ -1,0 +1,7 @@
+{
+    "chestcavity": "chestcavity:types/humanoid/human.json",
+    "entities": [
+      "spore:inf_human",
+      "spore:inf_husk"
+    ]
+}
